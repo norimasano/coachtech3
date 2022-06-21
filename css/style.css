@@ -1,0 +1,15 @@
+.flex {
+  display: flex;
+  justify-content: space-between;
+  color: darkblue;
+}
+
+.flex-item {
+  display: inline-block;
+
+}
+
+.logo {
+  font-size: 30px;
+}
+
