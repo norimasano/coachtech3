@@ -1,6 +1,7 @@
 .flex {
   display: flex;
   justify-content: space-between;
+  margin: 10px;
   color: darkblue;
 }
 
@@ -10,26 +11,26 @@
 }
 
 .title {
-  font-size: 30px;
+  font-size: 40px;
   background-color: white;
 }
 
 .relative {
   position: relative;
-  top: 300px;
+  top: 350px;
   left: 0px;
 }
 
 .blue-box {
-  width: 800px;
-  height: 150px;
-  background-color: blue;
+  width: 1000px;
+  height: 180px;
+  background-color: navy;
 }
 
 .rainbow-box {
   position: absolute;
-  top: 0px;
-  right: 0px;
+  top: 100px;
+  left: 600px;
 }
 
 
