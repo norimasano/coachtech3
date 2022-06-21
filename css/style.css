@@ -6,10 +6,30 @@
 
 .flex-item {
   display: inline-block;
-
+  font-size: 10px;
 }
 
-.logo {
+.title {
   font-size: 30px;
+  background-color: white;
 }
+
+.relative {
+  position: relative;
+  top: 300px;
+  left: 0px;
+}
+
+.blue-box {
+  width: 800px;
+  height: 150px;
+  background-color: blue;
+}
+
+.rainbow-box {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
 
