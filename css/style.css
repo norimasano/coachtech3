@@ -8,6 +8,15 @@
 .flex-item {
   display: inline-block;
   font-size: 20px;
+  
+}
+
+main {
+  max-width: fit-content
+}
+
+a {
+  text-decoration: none;
 }
 
 .title {
@@ -33,7 +42,7 @@
 .rainbow-box {
   position: absolute;
   top: 100px;
-  left: 750px;
+  right: 0px;
 }
 
 
